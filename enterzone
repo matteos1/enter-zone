@@ -2,7 +2,6 @@ blueprint:
   name: Zone Notification enter
   description: Send a notification to a device when a person enter a specific zone.
   domain: automation
-  source_url: 
   input:
     person_entity:
       name: Person
